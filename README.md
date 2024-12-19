@@ -31,21 +31,6 @@ The <b>Energy Optimization and Peak Demand Management</b> project aims to addres
 
 ---
 
-## 📊 Diagrams
-<h3>1. Data Integration Workflow</h3>  
-<p align="justify">Represents the process of merging static house data, energy usage data, and weather data into a single dataset for analysis.</p>  
-![Data Integration Workflow](Data_Integration_Workflow.png)
-
-<h3>2. Predictive Modeling Overview</h3>  
-<p align="justify">Illustrates the machine learning models used and their accuracies in predicting energy consumption.</p>  
-![Predictive Modeling Overview](Predictive_Modeling_Overview.png)
-
-<h3>3. Peak Demand Analysis</h3>  
-<p align="justify">Displays insights from the data, including peak hours, temperature impact, and energy consumption trends.</p>  
-![Peak Demand Analysis](Peak_Demand_Analysis.png)
-
----
-
 ## 📈 Results
 <p align="justify">
 ✅ <b>Prediction Accuracy</b>: Linear Regression model achieved ~90% accuracy; Random Forest and Decision Tree showed overfitting at 99% and 95% respectively.<br>  
